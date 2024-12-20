@@ -1,0 +1,8 @@
+José Wilmer Andrés Bernaola Cedano
+
+
+usuarios (nombre de usuario y contraseña):
+andres andres
+jose jose
+joseandres joseandres
+diego diego
